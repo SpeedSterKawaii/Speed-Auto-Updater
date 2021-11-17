@@ -12,4 +12,4 @@
 
 # WARNING!
 
-```This is the OFFICIAL release, if you see any COPY do NOT INSTALL! We have a copyright/ink trademark in all of our SS (speed softwares) applications. Report and send it to use if you find any clones or copies from this software (or any).
+`This is the OFFICIAL release, if you see any COPY do NOT INSTALL! We have a copyright/ink trademark in all of our SS (speed softwares) applications. Report and send it to use if you find any clones or copies from this software (or any).`
