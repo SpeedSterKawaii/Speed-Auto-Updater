@@ -9,3 +9,7 @@
 # C# VERSION?
 
 *Allows to read your strings, modify and replace them. It can also delete a string/element inside of your C# app, (tested ONLY for **.NET FRAMEWORK**!!) It canNOT update your UI or interface options, only your code.*
+
+# WARNING!
+
+```This is the OFFICIAL release, if you see any COPY do NOT INSTALL! We have a copyright/ink trademark in all of our SS (speed softwares) applications. Report and send it to use if you find any clones or copies from this software (or any).
