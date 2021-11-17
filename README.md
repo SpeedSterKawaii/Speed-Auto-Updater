@@ -13,3 +13,10 @@
 # WARNING!
 
 `This is the OFFICIAL release, if you see any COPY do NOT INSTALL! We have a copyright/ink trademark in all of our SS (speed softwares) applications. Report and send it to use if you find any clones or copies from this software (or any).`
+
+# REQUIREMENTS?
+
+- *Stable Internet with at MBPS of 100*
+- *5 Megabits of Uploading/Downloading*
+- *VS 2019 or 2022 init release*
+- *
